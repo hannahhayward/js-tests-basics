@@ -29,8 +29,4 @@ function isEven(num) {
 // Make it inclusive so that the starting and ending numbers are part 
 // of the range.HINT ** Utilize Javascript's Math Class (To the Google!)
 function numberGenerator(num1, num2) {
-  let range =
-  range.setStart(num1)
-range.setEnd(num2)
-return RandomSource.range()
 }
